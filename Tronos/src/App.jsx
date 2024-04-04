@@ -5,7 +5,7 @@ import Personaje from './pages/Personaje/Personaje'
 import Casas from './pages/Casas/Casas'
 import Casa from './pages/Casa/Casa'
 import Cronologia from './pages/Cronologia/Cronologia'
-import Navigation from './components/Navigation/Navigation'
+
 
 
 function App() {
@@ -13,12 +13,11 @@ function App() {
 
   return (
     <>
-      <Navigation></Navigation>
+      
       <Router>
 
         <Routes>
           <Route path='/' element={<HomePage></HomePage>}></Route>
-          
           <Route path='/personaje:name' element={<Personaje></Personaje>}></Route>
           <Route path='/casas' element={<Casas></Casas>}></Route>
           <Route path='/casa:house' element={<Casa></Casa>}></Route>
