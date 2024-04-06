@@ -1,11 +1,13 @@
-// eslint-disable-next-line no-unused-vars
-import React from 'react'
+
 
 export default function Idiomas() {
   return (
     <>
-        <button>Spain</button>
-        <button>English</button>
+      <div className='idioms'>
+        <button className="btn-i"><img className="img-sp" src="./public/img-idiomas/spanish.png"></img></button>
+        <button className="btn-i"><img className="img-eng" src="./public/img-idiomas/england.png"></img></button>
+      </div>
+        
 
     </>
   )

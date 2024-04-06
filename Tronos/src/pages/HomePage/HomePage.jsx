@@ -8,12 +8,23 @@ import Idiomas from "../../components/Idiomas/Idiomas";
 export default function HomePage() {
   return (
     <>
+      
+       {/* <div className="nav">
+        
+        </div>  */}
       <div className="home-background">
-        <Idiomas></Idiomas>
+        
+          
+            <Idiomas></Idiomas>
+          
+          
+             <Navigation />
+          
+       
+        
       </div>
-      <div className="nav">
-        <Navigation />
-      </div>
+      
+       
     </>
   );
 

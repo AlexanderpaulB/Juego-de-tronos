@@ -3,8 +3,31 @@
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
-  position: relative;
-  background-attachment: fixed;
+  position: relative; 
+  background-attachment: fixed; 
   width: 100vw;
-  height: 100vh;
+  height: 43vw; 
+}
+.idioms-es{
+  display: flex;
+  
+}
+.img-sp{
+  width: 40px;
+}
+.img-eng{
+  width: 40px;
+}
+
+.navig{
+  display: flex;
+  align-self: flex-start;
+  flex-wrap: nowrap;
+  justify-content: space-around;
+  position: relative;
+  top:545px;
+}
+.idioms{
+  position: relative;
+  left: 580px;
 }
