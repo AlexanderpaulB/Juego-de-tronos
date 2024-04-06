@@ -4,20 +4,10 @@
       "id": 1,
       "name": "Jon Snow",
       "house": "Stark",
-      "parents": [
-        "Rhaegar Targaryen",
-        "Lyanna Stark"
-      ],
-      "siblings": [
-        "Daenerys Targaryen"
-      ],
-      "titles": [
-        "King in the North"
-      ],
-      "alliances": [
-        "House Stark",
-        "House Targaryen"
-      ],
+      "parents": ["Rhaegar Targaryen", "Lyanna Stark"],
+      "siblings": ["Daenerys Targaryen"],
+      "titles": ["King in the North"],
+      "alliances": ["House Stark", "House Targaryen"],
       "episodes": [
         "Winter Is Coming",
         "The Kingsroad",
@@ -25,27 +15,16 @@
         "Cripples, Bastards, and Broken Things"
       ],
       "age": 23,
-      "image": "/images/characters/01.jpg"
+      "image": "/img/characters/01.jpg"
     },
     {
       "id": 2,
       "name": "Daenerys Targaryen",
       "house": "Targaryen",
-      "parents": [
-        "Aerys II Targaryen",
-        "Rhaella Targaryen"
-      ],
-      "siblings": [
-        "Rhaegar Targaryen",
-        "Viserys Targaryen"
-      ],
-      "titles": [
-        "Queen of the Andals and the First Men"
-      ],
-      "alliances": [
-        "House Targaryen",
-        "Dothraki"
-      ],
+      "parents": ["Aerys II Targaryen", "Rhaella Targaryen"],
+      "siblings": ["Rhaegar Targaryen", "Viserys Targaryen"],
+      "titles": ["Queen of the Andals and the First Men"],
+      "alliances": ["House Targaryen", "Dothraki"],
       "episodes": [
         "Winter Is Coming",
         "The Kingsroad",
@@ -53,27 +32,16 @@
         "Cripples, Bastards, and Broken Things"
       ],
       "age": 25,
-      "image": "/images/characters/02.jpeg"
+      "image": "/img/characters/02.jpeg"
     },
     {
       "id": 3,
       "name": "Tyrion Lannister",
       "house": "Lannister",
-      "parents": [
-        "Tywin Lannister",
-        "Joanna Lannister"
-      ],
-      "siblings": [
-        "Cersei Lannister",
-        "Jaime Lannister"
-      ],
-      "titles": [
-        "Hand of the Queen"
-      ],
-      "alliances": [
-        "House Lannister",
-        "House Targaryen"
-      ],
+      "parents": ["Tywin Lannister", "Joanna Lannister"],
+      "siblings": ["Cersei Lannister", "Jaime Lannister"],
+      "titles": ["Hand of the Queen"],
+      "alliances": ["House Lannister", "House Targaryen"],
       "episodes": [
         "Winter Is Coming",
         "The Kingsroad",
@@ -81,28 +49,16 @@
         "Cripples, Bastards, and Broken Things"
       ],
       "age": 40,
-      "image": "/images/characters/03.webp"
+      "image": "/img/characters/03.webp"
     },
     {
       "id": 4,
       "name": "Arya Stark",
       "house": "Stark",
-      "parents": [
-        "Eddard Stark",
-        "Catelyn Stark"
-      ],
-      "siblings": [
-        "Robb Stark",
-        "Sansa Stark",
-        "Bran Stark",
-        "Rickon Stark"
-      ],
-      "titles": [
-        "Lady of Winterfell"
-      ],
-      "alliances": [
-        "House Stark"
-      ],
+      "parents": ["Eddard Stark", "Catelyn Stark"],
+      "siblings": ["Robb Stark", "Sansa Stark", "Bran Stark", "Rickon Stark"],
+      "titles": ["Lady of Winterfell"],
+      "alliances": ["House Stark"],
       "episodes": [
         "Winter Is Coming",
         "The Kingsroad",
@@ -110,26 +66,16 @@
         "Cripples, Bastards, and Broken Things"
       ],
       "age": 20,
-      "image": "/images/characters/04.jpg"
+      "image": "/img/characters/04.jpg"
     },
     {
       "id": 5,
       "name": "Cersei Lannister",
       "house": "Lannister",
-      "parents": [
-        "Tywin Lannister",
-        "Joanna Lannister"
-      ],
-      "siblings": [
-        "Jaime Lannister",
-        "Tyrion Lannister"
-      ],
-      "titles": [
-        "Queen of the Andals and the First Men"
-      ],
-      "alliances": [
-        "House Lannister"
-      ],
+      "parents": ["Tywin Lannister", "Joanna Lannister"],
+      "siblings": ["Jaime Lannister", "Tyrion Lannister"],
+      "titles": ["Queen of the Andals and the First Men"],
+      "alliances": ["House Lannister"],
       "episodes": [
         "Winter Is Coming",
         "The Kingsroad",
@@ -137,28 +83,16 @@
         "Cripples, Bastards, and Broken Things"
       ],
       "age": 45,
-      "image": "/images/characters/05.webp"
+      "image": "/img/characters/05.webp"
     },
     {
       "id": 6,
       "name": "Sansa Stark",
       "house": "Stark",
-      "parents": [
-        "Eddard Stark",
-        "Catelyn Stark"
-      ],
-      "siblings": [
-        "Robb Stark",
-        "Arya Stark",
-        "Bran Stark",
-        "Rickon Stark"
-      ],
-      "titles": [
-        "Queen in the North"
-      ],
-      "alliances": [
-        "House Stark"
-      ],
+      "parents": ["Eddard Stark", "Catelyn Stark"],
+      "siblings": ["Robb Stark", "Arya Stark", "Bran Stark", "Rickon Stark"],
+      "titles": ["Queen in the North"],
+      "alliances": ["House Stark"],
       "episodes": [
         "The Wolf and the Lion",
         "A Golden Crown",
@@ -166,26 +100,16 @@
         "The Pointy End"
       ],
       "age": 24,
-      "image": "/images/characters/06.webp"
+      "image": "/img/characters/06.webp"
     },
     {
       "id": 7,
       "name": "Jaime Lannister",
       "house": "Lannister",
-      "parents": [
-        "Tywin Lannister",
-        "Joanna Lannister"
-      ],
-      "siblings": [
-        "Cersei Lannister",
-        "Tyrion Lannister"
-      ],
-      "titles": [
-        "Lord Commander of the Kingsguard"
-      ],
-      "alliances": [
-        "House Lannister"
-      ],
+      "parents": ["Tywin Lannister", "Joanna Lannister"],
+      "siblings": ["Cersei Lannister", "Tyrion Lannister"],
+      "titles": ["Lord Commander of the Kingsguard"],
+      "alliances": ["House Lannister"],
       "episodes": [
         "The Wolf and the Lion",
         "A Golden Crown",
@@ -193,28 +117,16 @@
         "The Pointy End"
       ],
       "age": 40,
-      "image": "/images/characters/07.jpg"
+      "image": "/img/characters/07.jpg"
     },
     {
       "id": 8,
       "name": "Margaery Tyrell",
       "house": "Tyrell",
-      "parents": [
-        "Mace Tyrell",
-        "Alerie Tyrell"
-      ],
-      "siblings": [
-        "Loras Tyrell",
-        "Willas Tyrell",
-        "Garlan Tyrell"
-      ],
-      "titles": [
-        "Queen of the Seven Kingdoms"
-      ],
-      "alliances": [
-        "House Tyrell",
-        "House Baratheon"
-      ],
+      "parents": ["Mace Tyrell", "Alerie Tyrell"],
+      "siblings": ["Loras Tyrell", "Willas Tyrell", "Garlan Tyrell"],
+      "titles": ["Queen of the Seven Kingdoms"],
+      "alliances": ["House Tyrell", "House Baratheon"],
       "episodes": [
         "The Wolf and the Lion",
         "A Golden Crown",
@@ -222,26 +134,16 @@
         "The Pointy End"
       ],
       "age": 28,
-      "image": "/images/characters/08.webp"
+      "image": "/img/characters/08.webp"
     },
     {
       "id": 9,
       "name": "Stannis Baratheon",
       "house": "Baratheon",
-      "parents": [
-        "Steffon Baratheon",
-        "Cassana Baratheon"
-      ],
-      "siblings": [
-        "Robert Baratheon",
-        "Renly Baratheon"
-      ],
-      "titles": [
-        "Lord of Dragonstone"
-      ],
-      "alliances": [
-        "House Baratheon"
-      ],
+      "parents": ["Steffon Baratheon", "Cassana Baratheon"],
+      "siblings": ["Robert Baratheon", "Renly Baratheon"],
+      "titles": ["Lord of Dragonstone"],
+      "alliances": ["House Baratheon"],
       "episodes": [
         "The Wolf and the Lion",
         "A Golden Crown",
@@ -249,27 +151,16 @@
         "The Pointy End"
       ],
       "age": 47,
-      "image": "/images/characters/09.webp"
+      "image": "/img/characters/09.webp"
     },
     {
       "id": 10,
       "name": "Oberyn Martell",
       "house": "Martell",
-      "parents": [
-        "Doran Martell",
-        "Melaria Martell"
-      ],
-      "siblings": [
-        "Doran Martell",
-        "Elia Martell"
-      ],
-      "titles": [
-        "Prince of Dorne"
-      ],
-      "alliances": [
-        "House Martell",
-        "House Targaryen"
-      ],
+      "parents": ["Doran Martell", "Melaria Martell"],
+      "siblings": ["Doran Martell", "Elia Martell"],
+      "titles": ["Prince of Dorne"],
+      "alliances": ["House Martell", "House Targaryen"],
       "episodes": [
         "The Wolf and the Lion",
         "A Golden Crown",
@@ -277,22 +168,16 @@
         "The Pointy End"
       ],
       "age": 41,
-      "image": "/images/characters/10.webp"
+      "image": "/img/characters/10.webp"
     },
     {
       "id": 11,
       "name": "Brienne of Tarth",
       "house": "Tarth",
-      "parents": [
-        "Selwyn Tarth"
-      ],
+      "parents": ["Selwyn Tarth"],
       "siblings": [],
-      "titles": [
-        "Knight of the Seven Kingdoms"
-      ],
-      "alliances": [
-        "House Stark"
-      ],
+      "titles": ["Knight of the Seven Kingdoms"],
+      "alliances": ["House Stark"],
       "episodes": [
         "The Mountain and the Viper",
         "The Watchers on the Wall",
@@ -300,7 +185,7 @@
         "The Wars to Come"
       ],
       "age": 35,
-      "image": "/images/characters/11.webp"
+      "image": "/img/characters/11.webp"
     },
     {
       "id": 12,
@@ -308,13 +193,8 @@
       "house": null,
       "parents": [],
       "siblings": [],
-      "titles": [
-        "Leader of the Free Folk"
-      ],
-      "alliances": [
-        "Free Folk",
-        "House Stark"
-      ],
+      "titles": ["Leader of the Free Folk"],
+      "alliances": ["Free Folk", "House Stark"],
       "episodes": [
         "Hardhome",
         "The Door",
@@ -322,26 +202,16 @@
         "The Dragon and the Wolf"
       ],
       "age": 45,
-      "image": "/images/characters/12.jpg"
+      "image": "/img/characters/12.jpg"
     },
     {
       "id": 13,
       "name": "Samwell Tarly",
       "house": "Tarly",
-      "parents": [
-        "Randyll Tarly",
-        "Melessa Tarly"
-      ],
-      "siblings": [
-        "Dickon Tarly"
-      ],
-      "titles": [
-        "Grand Maester of the Seven Kingdoms"
-      ],
-      "alliances": [
-        "Night's Watch",
-        "House Targaryen"
-      ],
+      "parents": ["Randyll Tarly", "Melessa Tarly"],
+      "siblings": ["Dickon Tarly"],
+      "titles": ["Grand Maester of the Seven Kingdoms"],
+      "alliances": ["Night's Watch", "House Targaryen"],
       "episodes": [
         "The Children",
         "High Sparrow",
@@ -349,23 +219,16 @@
         "The Winds of Winter"
       ],
       "age": 32,
-      "image": "/images/characters/13.webp"
+      "image": "/img/characters/13.webp"
     },
     {
       "id": 14,
       "name": "Jorah Mormont",
       "house": "Mormont",
-      "parents": [
-        "Jeor Mormont"
-      ],
+      "parents": ["Jeor Mormont"],
       "siblings": [],
-      "titles": [
-        "Knight",
-        "Lord of Bear Island"
-      ],
-      "alliances": [
-        "House Targaryen"
-      ],
+      "titles": ["Knight", "Lord of Bear Island"],
+      "alliances": ["House Targaryen"],
       "episodes": [
         "The Kingsroad",
         "A Golden Crown",
@@ -373,23 +236,16 @@
         "The Pointy End"
       ],
       "age": 52,
-      "image": "/images/characters/14.jpg"
+      "image": "/img/characters/14.jpg"
     },
     {
       "id": 15,
       "name": "Gendry Baratheon",
       "house": "Baratheon",
-      "parents": [
-        "Robert Baratheon"
-      ],
+      "parents": ["Robert Baratheon"],
       "siblings": [],
-      "titles": [
-        "Lord of Storm's End"
-      ],
-      "alliances": [
-        "House Baratheon",
-        "House Stark"
-      ],
+      "titles": ["Lord of Storm's End"],
+      "alliances": ["House Baratheon", "House Stark"],
       "episodes": [
         "The Spoils of War",
         "Eastwatch",
@@ -397,7 +253,7 @@
         "The Dragon and the Wolf"
       ],
       "age": 34,
-      "image": "/images/characters/15.jpg"
+      "image": "/img/characters/15.jpg"
     },
     {
       "id": 16,
@@ -405,14 +261,8 @@
       "house": "Seaworth",
       "parents": [],
       "siblings": [],
-      "titles": [
-        "Lord of the Rainwood",
-        "Hand of the King"
-      ],
-      "alliances": [
-        "House Stark",
-        "House Baratheon"
-      ],
+      "titles": ["Lord of the Rainwood", "Hand of the King"],
+      "alliances": ["House Stark", "House Baratheon"],
       "episodes": [
         "Blackwater",
         "The Lion and the Rose",
@@ -420,7 +270,7 @@
         "The Iron Throne"
       ],
       "age": 50,
-      "image": "/images/characters/16.jpg"
+      "image": "/img/characters/16.jpg"
     },
     {
       "id": 17,
@@ -428,13 +278,8 @@
       "house": null,
       "parents": [],
       "siblings": [],
-      "titles": [
-        "Red Priestess of R'hllor"
-      ],
-      "alliances": [
-        "House Baratheon",
-        "Brotherhood Without Banners"
-      ],
+      "titles": ["Red Priestess of R'hllor"],
+      "alliances": ["House Baratheon", "Brotherhood Without Banners"],
       "episodes": [
         "The North Remembers",
         "The Ghost of Harrenhal",
@@ -442,7 +287,7 @@
         "The Climb"
       ],
       "age": 400,
-      "image": "/images/characters/17.webp"
+      "image": "/img/characters/17.webp"
     },
     {
       "id": 18,
@@ -450,14 +295,8 @@
       "house": null,
       "parents": [],
       "siblings": [],
-      "titles": [
-        "Ser",
-        "Lord of Highgarden"
-      ],
-      "alliances": [
-        "House Lannister",
-        "House Tyrell"
-      ],
+      "titles": ["Ser", "Lord of Highgarden"],
+      "alliances": ["House Lannister", "House Tyrell"],
       "episodes": [
         "The Wolf and the Lion",
         "Blackwater",
@@ -465,26 +304,16 @@
         "The Spoils of War"
       ],
       "age": 40,
-      "image": "/images/characters/18.jpg"
+      "image": "/img/characters/18.jpg"
     },
     {
       "id": 19,
       "name": "Theon Greyjoy",
       "house": "Greyjoy",
-      "parents": [
-        "Balon Greyjoy"
-      ],
-      "siblings": [
-        "Yara Greyjoy"
-      ],
-      "titles": [
-        "Prince of the Iron Islands",
-        "Lord of Winterfell"
-      ],
-      "alliances": [
-        "House Stark",
-        "House Targaryen"
-      ],
+      "parents": ["Balon Greyjoy"],
+      "siblings": ["Yara Greyjoy"],
+      "titles": ["Prince of the Iron Islands", "Lord of Winterfell"],
+      "alliances": ["House Stark", "House Targaryen"],
       "episodes": [
         "The Pointy End",
         "The Old Gods and the New",
@@ -492,7 +321,7 @@
         "Winterfell"
       ],
       "age": 31,
-      "image": "/images/characters/19.webp"
+      "image": "/img/characters/19.webp"
     },
     {
       "id": 20,
@@ -500,12 +329,8 @@
       "house": null,
       "parents": [],
       "siblings": [],
-      "titles": [
-        "Faceless Man"
-      ],
-      "alliances": [
-        "The Faceless Men"
-      ],
+      "titles": ["Faceless Man"],
+      "alliances": ["The Faceless Men"],
       "episodes": [
         "A Man Without Honor",
         "The Ghost of Harrenhal",
@@ -513,7 +338,7 @@
         "No One"
       ],
       "age": null,
-      "image": "/images/characters/20.webp"
+      "image": "/img/characters/20.webp"
     }
   ],
   "houses": [
@@ -522,13 +347,8 @@
       "name": "Stark",
       "settlement": "Invernalia",
       "region": "Norte",
-      "alliances": [
-        "Targaryen",
-        "Mormont"
-      ],
-      "religions": [
-        "Antiguos Dioses del Bosque"
-      ],
+      "alliances": ["Targaryen", "Mormont"],
+      "religions": ["Antiguos Dioses del Bosque"],
       "foundation": "04/05/-300",
       "image": "/images/houses/01.webp"
     },
@@ -537,13 +357,8 @@
       "name": "Lannister",
       "settlement": "Roca Casterly",
       "region": "Tierras del Oeste",
-      "alliances": [
-        "Baratheon",
-        "Tyrell"
-      ],
-      "religions": [
-        "Fe de los Siete"
-      ],
+      "alliances": ["Baratheon", "Tyrell"],
+      "religions": ["Fe de los Siete"],
       "foundation": "01/01/-1000",
       "image": "/images/houses/02.webp"
     },
@@ -552,13 +367,8 @@
       "name": "Baratheon",
       "settlement": "Bastión de Tormentas",
       "region": "Las Tormentas",
-      "alliances": [
-        "Lannister",
-        "Stark"
-      ],
-      "religions": [
-        "Fe de los Siete"
-      ],
+      "alliances": ["Lannister", "Stark"],
+      "religions": ["Fe de los Siete"],
       "foundation": "01/01/-500",
       "image": "/images/houses/03.webp"
     },
@@ -567,14 +377,8 @@
       "name": "Targaryen",
       "settlement": "Roca Dragón",
       "region": "Islas del Mar Angosto",
-      "alliances": [
-        "Martell",
-        "Stark"
-      ],
-      "religions": [
-        "Valyrio",
-        "Fe de los Siete"
-      ],
+      "alliances": ["Martell", "Stark"],
+      "religions": ["Valyrio", "Fe de los Siete"],
       "foundation": "01/01/-126",
       "image": "/images/houses/04.webp"
     },
@@ -583,13 +387,8 @@
       "name": "Tyrell",
       "settlement": "Altojardín",
       "region": "El Dominio",
-      "alliances": [
-        "Lannister",
-        "Baratheon"
-      ],
-      "religions": [
-        "Fe de los Siete"
-      ],
+      "alliances": ["Lannister", "Baratheon"],
+      "religions": ["Fe de los Siete"],
       "foundation": "01/01/-1",
       "image": "/images/houses/05.webp"
     },
@@ -598,13 +397,8 @@
       "name": "Greyjoy",
       "settlement": "Pyke",
       "region": "Islas del Hierro",
-      "alliances": [
-        "Lannister",
-        "Bolton"
-      ],
-      "religions": [
-        "Ahogados Dioses"
-      ],
+      "alliances": ["Lannister", "Bolton"],
+      "religions": ["Ahogados Dioses"],
       "foundation": "01/01/-1000",
       "image": "/images/houses/06.webp"
     },
@@ -613,13 +407,8 @@
       "name": "Martell",
       "settlement": "Lanza del Sol",
       "region": "Dorne",
-      "alliances": [
-        "Targaryen",
-        "Tyrell"
-      ],
-      "religions": [
-        "R'hllor"
-      ],
+      "alliances": ["Targaryen", "Tyrell"],
+      "religions": ["R'hllor"],
       "foundation": "01/01/-300",
       "image": "/images/houses/07.webp"
     },
@@ -628,13 +417,8 @@
       "name": "Tully",
       "settlement": "Aguasdulces",
       "region": "El Valle",
-      "alliances": [
-        "Stark",
-        "Arryn"
-      ],
-      "religions": [
-        "Fe de los Siete"
-      ],
+      "alliances": ["Stark", "Arryn"],
+      "religions": ["Fe de los Siete"],
       "foundation": "01/01/-650",
       "image": "/images/houses/08.webp"
     },
@@ -643,13 +427,8 @@
       "name": "Arryn",
       "settlement": "Nido de Águilas",
       "region": "El Valle",
-      "alliances": [
-        "Tully",
-        "Stark"
-      ],
-      "religions": [
-        "Fe de los Siete"
-      ],
+      "alliances": ["Tully", "Stark"],
+      "religions": ["Fe de los Siete"],
       "foundation": "01/01/-1000",
       "image": "/images/houses/09.webp"
     },
@@ -658,13 +437,8 @@
       "name": "Bolton",
       "settlement": "Fuerte Terror",
       "region": "Norte",
-      "alliances": [
-        "Lannister",
-        "Greyjoy"
-      ],
-      "religions": [
-        "Antiguos Dioses del Bosque"
-      ],
+      "alliances": ["Lannister", "Greyjoy"],
+      "religions": ["Antiguos Dioses del Bosque"],
       "foundation": "01/01/-600",
       "image": "/images/houses/10.webp"
     },
@@ -673,13 +447,8 @@
       "name": "Frey",
       "settlement": "Los Gemelos",
       "region": "El Norte",
-      "alliances": [
-        "Lannister",
-        "Bolton"
-      ],
-      "religions": [
-        "Fe de los Siete"
-      ],
+      "alliances": ["Lannister", "Bolton"],
+      "religions": ["Fe de los Siete"],
       "foundation": "01/01/-600",
       "image": "/images/houses/11.webp"
     },
@@ -688,13 +457,8 @@
       "name": "Mormont",
       "settlement": "Isla del Oso",
       "region": "El Norte",
-      "alliances": [
-        "Stark",
-        "Targaryen"
-      ],
-      "religions": [
-        "Antiguos Dioses del Bosque"
-      ],
+      "alliances": ["Stark", "Targaryen"],
+      "religions": ["Antiguos Dioses del Bosque"],
       "foundation": "01/01/-700",
       "image": "/images/houses/12.webp"
     },
@@ -703,13 +467,8 @@
       "name": "Tarly",
       "settlement": "Altojardín",
       "region": "El Dominio",
-      "alliances": [
-        "Tyrell",
-        "Lannister"
-      ],
-      "religions": [
-        "Fe de los Siete"
-      ],
+      "alliances": ["Tyrell", "Lannister"],
+      "religions": ["Fe de los Siete"],
       "foundation": "01/01/-500",
       "image": "/images/houses/13.webp"
     },
@@ -718,13 +477,8 @@
       "name": "Seaworth",
       "settlement": "Puerto Blanco",
       "region": "Las Tormentas",
-      "alliances": [
-        "Stark",
-        "Baratheon"
-      ],
-      "religions": [
-        "Fe de los Siete"
-      ],
+      "alliances": ["Stark", "Baratheon"],
+      "religions": ["Fe de los Siete"],
       "foundation": "01/01/-500",
       "image": "/images/houses/14.webp"
     },
@@ -733,12 +487,8 @@
       "name": "Tarth",
       "settlement": "Isla de Tarth",
       "region": "Las Tormentas",
-      "alliances": [
-        "Baratheon"
-      ],
-      "religions": [
-        "Fe de los Siete"
-      ],
+      "alliances": ["Baratheon"],
+      "religions": ["Fe de los Siete"],
       "foundation": "01/01/-600",
       "image": "/images/houses/15.webp"
     }
