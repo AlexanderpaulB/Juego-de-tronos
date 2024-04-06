@@ -28,6 +28,7 @@ body {
   place-items: center;
   min-width: 320px;
   min-height: 100vh;
+  background-image: url("https: //cdn1.vox-cdn.com/assets/4229567/game-of-thrones-poster_85627-1920x1200.jpg")
 }
 
 h1 {
