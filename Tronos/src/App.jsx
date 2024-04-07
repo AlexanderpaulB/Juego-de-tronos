@@ -11,8 +11,6 @@ import Personajes from './pages/Personajes/Personajes'
 function App() {
   return (
     <>
-
-
       <Router>
         <Routes>
           <Route path='/' element={<HomePage></HomePage>}></Route>
@@ -24,6 +22,7 @@ function App() {
           
         </Routes>
       </Router>
+      <Navigation></Navigation>
     </>
   );
 }
