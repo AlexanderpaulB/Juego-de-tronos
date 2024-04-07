@@ -1,0 +1,8 @@
+.navig {
+    display: flex;
+    align-self: flex-start;
+    flex-wrap: nowrap;
+    justify-content: space-around;
+    position: relative;
+    top: 625px;
+}

@@ -9,19 +9,10 @@ export default function HomePage() {
   return (
     <>
       
-       {/* <div className="nav">
-        
-        </div>  */}
+  
       <div className="home-background">
-        
-          
-            <Idiomas></Idiomas>
-          
-          
-             <Navigation />
-          
-       
-        
+        <Idiomas></Idiomas>
+        <Navigation />
       </div>
       
        

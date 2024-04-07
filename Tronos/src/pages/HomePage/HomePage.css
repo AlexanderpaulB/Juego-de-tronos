@@ -1,5 +1,5 @@
 .home-background {
-  background-image: url(/public/img/background/fondo-2.gif);
+  background-image: url(/public/images/background/fondo-2.gif);
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -14,9 +14,19 @@
 }
 .img-sp{
   width: 40px;
+  
 }
 .img-eng{
   width: 40px;
+ 
+}
+.btn-i{
+  position: absolute;
+  right: 120px;
+}
+.btn-i-eng{
+  position: absolute;
+    right: 67px;
 }
 
 .navig{
@@ -25,9 +35,5 @@
   flex-wrap: nowrap;
   justify-content: space-around;
   position: relative;
-  top:545px;
-}
-.idioms{
-  position: relative;
-  left: 580px;
+  top:625px;
 }
