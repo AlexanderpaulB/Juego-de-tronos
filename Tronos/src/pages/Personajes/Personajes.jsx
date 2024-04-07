@@ -4,6 +4,7 @@ import axios from "axios";
 import { Link } from "react-router-dom";
 import SimpleBar from "simplebar-react";
 import "simplebar-react/dist/simplebar.min.css";
+import Idiomas from "../../components/Idiomas/Idiomas";
 
 import { useEffect, useState } from "react";
 import Busqueda from "../../components/Busqueda/Busqueda";
@@ -30,6 +31,7 @@ export default function Personajes() {
   return (
     <>
       <Busqueda search={filterCharacters} />
+      <Idiomas />
 
       <div className="container">
         <SimpleBar style={{ height: "600px" }}>

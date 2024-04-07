@@ -4,6 +4,7 @@ import "./Personaje.css";
 import { useEffect, useState } from "react";
 import { useParams } from "react-router-dom";
 import Volver from "../../components/Volver/Volver";
+import Idiomas from "../../components/Idiomas/Idiomas";
 
 export default function Personaje() {
   const [character, setCharacter] = useState();
@@ -37,6 +38,9 @@ export default function Personaje() {
     <>
       <div className="">
         <Volver />
+      </div>
+      <div className="">
+        <Idiomas />
       </div>
       {character && (
         <div className="card-personaje">
